@@ -15,7 +15,7 @@ for j in range(len(keys_list)):
         result.append((hexEncodedString[i] ^ key[0]))
     print('\n',result.decode())
     print(binascii.hexlify(result))
-    print('The key for this attempt was : ',key)
+    print('The key for this attempt was : ',key.decode())
     result.clear()
 
 
