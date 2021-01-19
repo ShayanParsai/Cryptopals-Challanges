@@ -1,1 +1,1 @@
-Input english plain text or encrypted text here
+Paste the encrypted/decrypted text here
